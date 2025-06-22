@@ -1,6 +1,6 @@
 # REST-API-CLIENT
 company : codetech it solution
-name: krish patel
+name: patel krishkumar harshadkumar
 intern id : CT04DF501
 domain: java programming
 duration : 4 weeks
